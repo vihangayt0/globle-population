@@ -1,5 +1,5 @@
 {
-    "name": "Globle-Population-Scraper",
+    "name": "globle-population-scraper",
     "version": "1.0.0",
     "description": "Get Globle Population From countrymeters.info",
     "main": "app.js",
